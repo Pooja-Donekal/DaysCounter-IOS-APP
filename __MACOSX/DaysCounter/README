@@ -1,0 +1,10 @@
+Days Calculator App :
+
+The app checks for the validity of the inputs, like the first date should precede the second one.
+Also, it performs various checks on the range of the days and months.
+
+Once a valid input is given, the number of days are calculated by using a logic mentioned using comments in the code.
+
+Any errors are displayed in the textfield, else it gives the result.
+
+Also, the difference between Gregorian and Julian calendar is not taken into consideration. So for the Julian dates, the app provides you a result that differs by 10 days.
